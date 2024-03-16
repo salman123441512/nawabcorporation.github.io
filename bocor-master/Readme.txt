@@ -1,3 +1,3 @@
-Company Name: Nawab Corporation
+Company Name: The Nawab Corporation
 URL: https://nayabcorporation.com
 Author: Nayab Corporation
