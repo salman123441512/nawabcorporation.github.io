@@ -1,13 +1,4 @@
-/**
-* Template Name: Bocor - v2.0.0
-* Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -635,37 +626,6 @@ section {
   color: #fdc134;
 }
 
-/*--------------------------------------------------------------
-# Features
---------------------------------------------------------------*/
-.features .content + .content {
-  margin-top: 100px;
-}
-
-.features .content h3 {
-  font-weight: 700;
-  font-size: 26px;
-  color: #213b52;
-}
-
-.features .content ul {
-  list-style: none;
-  padding: 0;
-}
-
-.features .content ul li {
-  padding-bottom: 10px;
-}
-
-.features .content ul i {
-  font-size: 20px;
-  padding-right: 4px;
-  color: #fdc134;
-}
-
-.features .content p:last-child {
-  margin-bottom: 0;
-}
 
 /*--------------------------------------------------------------
 # Portfolio
