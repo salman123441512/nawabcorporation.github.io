@@ -905,6 +905,61 @@ section {
   }
 }
 
+/*-------------------------------------------------------------
+# Testimonial
+-------------------------------------------------------------*/
+.testimonial .container .box .member{
+  margin: 0 .1rem;
+}
+
+.testimonial .member .card{
+  width: 16rem;
+  height: 32rem;
+  display: flex;
+  align-items: center;
+  
+  
+}
+
+.testimonial .member .pic {
+  margin-bottom: 15px;
+  overflow: hidden;
+  max-height: 30rem;
+  /* height: ; */
+  width: fit-content;
+  display: flex;
+  
+
+}
+
+.testimonial .member .pic img {
+  width: 200px;
+  height: 190px;  
+  margin-top: 1rem;
+}
+.testimonial .member .card .card-body p{
+  font-size: 13px;
+} 
+@media (max-width: 992px) {
+  .testimonial .box {
+    max-width: 60%;
+    margin: 0 auto 30px auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .testimonial .box {
+    max-width: 80%;
+    margin: 0 auto 30px auto;
+  }
+}
+
+@media (max-width: 420px) {
+  .testimonial .box {
+    max-width: 100%;
+    margin: 0 auto 30px auto;
+  }
+}
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
